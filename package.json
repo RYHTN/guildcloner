@@ -1,0 +1,15 @@
+{
+  "name": "discord-guild-copy",
+  "version": "1.0.0",
+  "description": "Copy discord servers",
+  "main": "index.js",
+  "author": "OnDebian",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "eris": "^0.10.1",
+    "yaml": "^1.6.0",
+    "yargs": "^14.0.0"
+  }
+}
